@@ -3,7 +3,7 @@ This is a sample hotel review app boilerplate. This repository is setup to test 
 
 ### Basic Requirements
 1. Show hotels in nearby location
-2. Show the reviews of each hotel
+2. Show the reviews of each hotel (Please find a public API to get the reviews)
 3. Photo gallery of each hotel
 4. Make sure this app is able to run on iOS and Android simulator
 
