@@ -1,5 +1,5 @@
 # Hotel Review App
-This is a sample hotel review app boilerplate. This repository is to test candidates on their current skillets in order to fit into the position.
+This is a sample hotel review app boilerplate. This repository is to test your skills in AngularJS, Javascript and mobile development.
 
 ### Requirements
 1. Show hotels in nearby location
