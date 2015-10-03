@@ -9,8 +9,10 @@ This is a sample hotel review app boilerplate. This repository is to test candid
 
 The rest is up to you to think and innovate.
 
-#### This project is a clone from Ionic Gulp Seed project:
+[Email](mailto:careers.singapore@mirumagency.com) us a link to your fork and your resume when you're done.
+
+##### This project is a clone from Ionic Gulp Seed project:
 https://github.com/tmaximini/ionic-gulp-seed
 
 
-[Email](mailto:careers.singapore@mirumagency.com) us a link to your fork and your resume when you're done.
+
