@@ -13,4 +13,4 @@ The rest is up to you to think and innovate.
 https://github.com/tmaximini/ionic-gulp-seed
 
 
-[Email](mailto://careers.singapore@mirumagency.com) us a link to your fork and your resume when you're done.
+[Email](mailto:careers.singapore@mirumagency.com) us a link to your fork and your resume when you're done.
