@@ -5,7 +5,7 @@ This is a sample hotel review app boilerplate. This repository is to test candid
 1. Show hotels in nearby location
 2. Show the reviews of each hotel
 3. Photo gallery of each hotel
-4. make sure this is able to run this app on iOS and Android simulator
+4. Make sure this app is able to run on iOS and Android simulator
 
 The rest is up to you to think and innovate.
 
