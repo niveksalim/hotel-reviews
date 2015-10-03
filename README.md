@@ -11,3 +11,6 @@ The rest is up to you to think and innovate.
 
 ### This project is a clone from Ionic Gulp Seed project:
 https://github.com/tmaximini/ionic-gulp-seed
+
+
+[Email](careers.singapore@mirumagency.com) us a link to your fork and your resume when you're done.
