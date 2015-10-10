@@ -8,6 +8,7 @@ This is a sample hotel review app boilerplate. This repository is setup to test 
 4. Make sure this app is able to run on iOS and Android simulator
 
 The rest is up to you to think and innovate.
+Fork a copy of this repository, *DO NOT* work directly here.
 
 [Email](mailto:careers.singapore@mirumagency.com) us a link to your fork when you're done.
 
