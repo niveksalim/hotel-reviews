@@ -11,5 +11,5 @@ angular.module('HotelReview')
     .controller('MainController', function($scope) {
 
         // do something with $scope
-
+        console.log($scope);
     });
