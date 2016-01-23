@@ -7,12 +7,17 @@
     <ion-content>
         <ion-refresher
             pulling-text="Pull to refresh..."
-            on-refresh="fetchRandomText()">
+            on-refresh="fetchNearbyHotel()">
         </ion-refresher>
         <div class="loader" ng-if="!myHTML">
             <ion-spinner></ion-spinner>
         </div>
-        <div class="content" ng-bind-html="myHTML">
+        <!-- map -->
+        <app-map style="height:{{mapHeight}};margin:12px;box-shadow:0 3px 25px black;"
+            center="loc"
+            data-tap-disabled="true"
+        >
+        </app-map>
         </div>
     </ion-content>
 

@@ -2,7 +2,7 @@
 
 // change this to your app's name (angular module)
 var appName = 'HotelReview';
-
+require('es6-promise').polyfill();
 
 var gulp = require('gulp');
 var plugins = require('gulp-load-plugins')();
